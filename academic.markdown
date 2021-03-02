@@ -4,13 +4,7 @@ title:  Academic
 permalink: /academic/
 ---
 
-{% highlight python %}
-# This is a python snippet
-import numpy as np
-a = np.array([1, 2, 3, 4])
-{% endhighlight %}
-
-This is working.
+Here I post my academic writings.
 
 
 {% for category in site.categories %}
@@ -23,3 +17,7 @@ This is working.
   </ul>
 {% endif %}
 {% endfor %}
+
+
+This is my [Curriculum
+Vitae](/assets/CurriculumVitae/Saurabh_curriculum_vitae.pdf).
