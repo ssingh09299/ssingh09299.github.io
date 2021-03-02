@@ -2,7 +2,7 @@
 layout: post
 title: Education
 date: Tue 02 Mar 2021 03:29:46 PM IST
-categories: jekyll update
+categories: ["Personal Writings"]
 ---
 A society grows with right education that implants the seed of self-awareness,
 the seed of fearlessness. Self-aware individuals question, innovate, and set

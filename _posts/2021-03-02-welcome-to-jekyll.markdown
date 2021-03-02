@@ -2,7 +2,7 @@
 layout: post
 title:  "The Writing Setup!!"
 date:   2021-03-02 13:18:08 +0530
-categories: jekyll update
+categories: ["Personal Writings", "Academic Writings"]
 ---
 This `blog` is written with [`Jekyll`][jekyll] and hosted on the
 [`Github`][github].
