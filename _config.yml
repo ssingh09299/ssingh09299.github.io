@@ -27,40 +27,41 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-
+minima:
+  skin: dark
+# classic, dark, solarized, solarized-dark
 # --- Footer social media links --- #
 #
-# # Select the social network links that you want to show in the footer.
-social_links:
-  # twitter: jekyllrb
-  github: ssingh09299
-  # stackoverflow: "11111"
-  # dribbble: jekyll
-  # facebook: jekyll
-  # flickr: jekyll
-  # instagram: jekyll
-  # linkedin: jekyll
-  # pinterest: jekyll
-  # telegram: jekyll
-  # microdotblog: jekyll
-  # keybase: jekyll
+minima:
+  social_links:
+    # twitter: jekyllrb
+    github: https://github.com/ssingh09299
+    # stackoverflow: "11111"
+    # dribbble: jekyll
+    facebook: https://facebook.com/5aura6h09299
+    # flickr: jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # telegram: jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
 
-  # mastodon:
-  #   - username: jekyll
-  #     instance: example.com
-  #   - username: jekyll2
-  #     instance: example.com
+    # mastodon:
+    #  - username: jekyll
+    #    instance: example.com
+    #  - username: jekyll2
+    #    instance: example.com
 
-  #     gitlab:
-  #       - username: jekyll
-  #         instance: example.com
-  #       - username: jekyll2
-  #         instance: example.com
+    # gitlab:
+    #  - username: jekyll
+    #    instance: example.com
+    #  - username: jekyll2
+    #    instance: example.com
 
-  #         youtube: jekyll
-  #         youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-  #         youtube_channel_name: CloudCannon
-
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon # Select the social network links that you want to show in the footer.
 
 # Build settings
 theme: minima

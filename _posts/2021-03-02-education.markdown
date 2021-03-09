@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Education
+title: A criticism to education
 date: Tue 02 Mar 2021 03:29:46 PM IST
 categories: ["Personal Writings"]
 ---
@@ -39,4 +39,4 @@ enjoying the ignorance of general public.
 The divisions in the society--in the form of nepotism--and measures to prevent
 them--in the form of reservation--are harming and further dividing the society.
 
-Postscript: The last paragraphs only apply to my country, India.
+Postscript: The last paragraphs are only apply to my country, India.
