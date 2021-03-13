@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Here I am.
+Welcome!
+
+Here you will find all my posts.

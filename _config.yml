@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -19,26 +19,27 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Saurabh Writes!
+author:
+name: Saurabh Singh
 email: saurabhhbti08@gmail.com
-
 description: >- # this means to ignore newlines until "baseurl:"
   Here, I will post my opinion/thoughts and experiences. Also, I will write the reviews of different topics in soil mechanics from their original sources.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-minima:
-  skin: dark
 # classic, dark, solarized, solarized-dark
 # --- Footer social media links --- #
 #
 minima:
+  skin: classic
+
   social_links:
     # twitter: jekyllrb
-    github: https://github.com/ssingh09299
+    github: ssingh09299
     # stackoverflow: "11111"
     # dribbble: jekyll
-    facebook: https://facebook.com/5aura6h09299
+    facebook: 5aura6h09299
     # flickr: jekyll
     # instagram: jekyll
     # linkedin: jekyll
@@ -65,8 +66,10 @@ minima:
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

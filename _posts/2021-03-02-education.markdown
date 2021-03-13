@@ -29,12 +29,12 @@ think the world is perfect when everything goes well with us, while ghosts of
 past are roaming around and gifting the misfortune to innocent children.
 
 Many talented hard-working individuals have suffered in the name equality. The
-greed of policy makers is enforcing the division in already divided society.
+greed of policymakers is enforcing the division in already divided society.
 They set to ensure the equality of opportunity to all, but turned it into
 equality of outcome. Instead of providing the good education to all, focus was
 on equal representation in the outcomes/jobs. The criteria of selection are
-relaxed--is harming the society tremendously, while the policy makers are
-enjoying the ignorance of general public.
+relaxed--is harming the society tremendously, while the policymakers are
+enjoying the ignorance of public.
 
 The divisions in the society--in the form of nepotism--and measures to prevent
 them--in the form of reservation--are harming and further dividing the society.
