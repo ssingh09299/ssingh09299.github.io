@@ -4,8 +4,9 @@ title:  "The Writing Setup!!"
 date:   2021-03-02 13:18:08 +0530
 categories: ["Personal Writings", "Academic Writings"]
 ---
-This `blog` is written with [`Jekyll`][jekyll] and hosted on the
-[`Github`][github].
+
+`Jekyll` is amazing; I write my blog on terminal and push it to `Github`. I use
+`Pandoc-Markdown` with `Pandoc` to write markdown and html files.
 
 <!---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
