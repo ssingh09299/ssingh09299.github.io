@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-# Welcome
+Welcome!
 
 Here you will find all my posts. Read on `Firefox` for better rendering of
 `mathml` equations. If `mathml` is not supported on your browser the latex
