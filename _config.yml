@@ -23,7 +23,7 @@ author:
 name: Saurabh Singh
 email: saurabhhbti08@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Here, I will post my opinion/thoughts and experiences. Also, I will write the reviews of different topics in soil mechanics from their original sources.
+  Here, I post my academic and personal writing.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,14 +32,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # --- Footer social media links --- #
 #
 minima:
-  skin: classic
-
   social_links:
-    # twitter: jekyllrb
+    twitter: Saurabh09299
     github: ssingh09299
     # stackoverflow: "11111"
     # dribbble: jekyll
-    facebook: 5aura6h09299
+    # facebook: 5aura6h09299
     # flickr: jekyll
     # instagram: jekyll
     # linkedin: jekyll

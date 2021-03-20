@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "The Writing Setup!!"
+title:  "The writing setup!!"
 date:   2021-03-02 13:18:08 +0530
 categories: ["Personal Writings", "Academic Writings"]
 ---
 
 `Jekyll` is amazing; I write my blog on terminal and push it to `Github`. I use
-`Pandoc-Markdown` with `Pandoc` to write markdown and html files.
+`VIM` and `Pandoc` to write markdown files and convert them to html,
+respectively.
 
 <!---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
