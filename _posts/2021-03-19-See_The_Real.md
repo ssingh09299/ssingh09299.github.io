@@ -25,4 +25,4 @@ are a few examples of messy thinking;
   goes in earning and when we have sufficient wealth, we do not have the
   health to live the way we want to.
 
-* You do not attempt, just to avoid failure; yet without attempting, you fail.
+* We do not attempt, just to avoid failure; yet without attempting, we fail.
