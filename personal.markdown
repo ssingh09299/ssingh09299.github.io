@@ -4,7 +4,8 @@ title: Personal
 permalink: /personal/
 ---
 
-I express myself here--about life, ideas, and experiences.
+I express myself here--about life, ideas, and experiences. These are modified
+time to time, and may appear incomplete at times.
 
 {% for category in site.categories %}
 {% if category[0] == "Personal Writings" %}
