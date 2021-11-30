@@ -1,13 +1,13 @@
 ---
 layout: page
-title:  Jokes and stories
-permalink: /jokes/
+title:  Research
+permalink: /research/
 ---
 
-Enjoy reading the following:
+
 
 {% for category in site.categories %}
-{% if category[0] == "Transcribed" %}
+{% if category[0] == "Force chains" %}
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
@@ -18,7 +18,7 @@ Enjoy reading the following:
 {% endfor %}
 
 {% for category in site.categories %}
-{% if category[0] == "Copied" %}
+{% if category[0] == "X-ray CT for soils" %}
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
@@ -27,3 +27,4 @@ Enjoy reading the following:
   </ul>
 {% endif %}
 {% endfor %}
+
