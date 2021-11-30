@@ -17,13 +17,12 @@ humans. Corruption results from the mental boundaries, from the divided mind.
 Observe the divisions, the disappointments, we carry with us. With all that, we
 behave differently with different people. An improper treatment multiplies; it
 pervades despair in society. The misfortune of a corrupt society is the
-self-sustaining nature of corruption; the corruption feeds on itself. A corrupt
-society is always stepping towards doom and all societies are corrupt.
+self-sustaining nature of corruption; the corruption feeds on itself.
 
 The current education system is broken; only privileged ones get it--opposite
 to the promises of equality of opportunity. We are in the twenty-first century
 and yet the ghosts of the past are lingering along; in my country, many educators
-deny education to unfortunate kids on the false premise of untouchability.
+deny education to unfortunate kids on the false premise of un-touchability.
 We think the world is perfect when everything goes well with us, while ghosts
 of the past are roaming around in a distant village. The measures like the reservation
 system don't reach the poor, mostly benefits the privileged.
@@ -40,5 +39,3 @@ nepotism, in any form.
 
 The divisions in the society--in the form of nepotism--and measures to prevent
 them--in the form of reservation--are harming and further dividing the society.
-
-Postscript: The last paragraphs only apply to my country, India.

@@ -18,3 +18,6 @@ it is only possible with honesty. One can push these boundaries with industry
 but applied intelligently. Intelligence works like a machine: a machine gets
 corroded when not in use; machine works well when in use. With these tools,
 anyone can excel in their fields.
+
+
+An ideal.
